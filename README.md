@@ -2,6 +2,5 @@
 short
 
 
-sad
 happy
 
